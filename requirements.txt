@@ -1,0 +1,5 @@
+pandas
+ipywidgets
+numpy
+matplotlib
+seaborn
